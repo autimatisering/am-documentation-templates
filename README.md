@@ -19,7 +19,7 @@ Van de vijf documenten, hebben we .docx en .md templates beschikbaar gesteld, di
 > Deze templates zijn zeer uitgebreide versies van de te leveren documentatie. Heb je een kleiner project, dan gaan wij samen diverse onderwerpen schrappen. Doe dit enkel in overleg met jouw begeleider.
 
 | Document                  | Word       | Markdown  |
-| ---                       | ---        | ---       |
+| :---                      | :---       | :---       |
 | Projectplan (PP)          | [.docx][1] | [.md][6]  |
 | Programma van Eisen (PvE) | [.docx][2] | [.md][7]  |
 | Functioneel ontwerp (FO)  | [.docx][3] | [.md][8]  |

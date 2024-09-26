@@ -120,7 +120,7 @@ Het is overigens mogelijk dat er in het verloop van het project bepaalde onderde
 `Heb je liever een wat simpeler overzicht, dan kun je dit ook in een tabelvorm gieten. Net zoals bij een Gantt-grafiek is dit op chronologische volgorde. Waar nodig kunnen taken overlappen.`
 
 | Wat zijn de taken? | Wanneer beginnen? | Wanneer klaar? | Wie werkt er aan? |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | `Taak` | `Datum` | `Datum` | `Namen` |
 | `Taak` | `Datum` | `Datum` | `Namen` |
 | `etc` | `etc` | `etc` | `etc` |
@@ -156,7 +156,7 @@ Het is overigens mogelijk dat er in het verloop van het project bepaalde onderde
 Enkel de termen die genoemd worden binnen dit document.
 
 | Terminologie | Omschrijving |
-| --- | --- |
+| :--- | :--- |
 | `Term` | `Uitleg` |
 | `Term` | `Uitleg` |
 | `etc` | `etc` |
