@@ -1,7 +1,7 @@
-# Project documentatie (verouderd)
-
 > [!WARNING]  
 > Deze documenten zijn verouderd. Wij hebben deze vervangen door complexere versies.
+
+# Project documentatie (verouderd)
 
 Vereenvoudigde projectdocumentatie volgens stagiaires, stage periode aug 2022 - feb 2023.
 
