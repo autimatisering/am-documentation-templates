@@ -28,7 +28,8 @@
 | :--- | :--- | :--- | :--- |
 | `Navigatie sub` | `Een tweede navigatie voor subcategorieën, met dropdowns en filters die men kan selecteren` | `Eis` | `Ja` |
 | `Zoekmachine` | `Een interne zoekmachine die de hele site doorzoekt` | `Wens` | `Ja` |
-| `3D avatar` | `Een 3D avatar die af en toe in beeld springt. Niet iedereen heeft een VR bril. Dit wordt erg lastig om te programmeren.` | `Wens` | `Nee` | 
+| `3D avatar` | `Een 3D avatar die af en toe in beeld springt. Niet iedereen heeft een VR bril. Dit wordt erg lastig om te programmeren.` | `Wens` | `Nee` |
+| | `Niet iedereen heeft een VR bril. Dit wordt erg lastig om te programmeren.` | |
 | `etc`| `etc` | `etc` | `etc` |
 
 ## Vooronderzoek
