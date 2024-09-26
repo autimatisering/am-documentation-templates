@@ -115,7 +115,7 @@ Enkel de termen die genoemd worden binnen dit document.
 
 | Terminologie | Omschrijving |
 | :--- | :--- |
-| Showstopper | `Technisch onderdeel van een ontwerp dat ervoor kan zorgen dat de totale haalbaarheid van het project in gevaar komt. Het is belangrijk dat eerst de showstoppers geïdentificeerd en getest worden. Voorbeeld: als een apparaat bestuurd moet worden vanuit een PC maar de communicatie werkt niet tussen PC en apparaat, zal het dus nooit vanuit een PC bestuurd kunnen worden. Oplossing: eerst dit testen, dan pas naar de volgende stap.` |
+| Showstopper | Technisch onderdeel van een ontwerp dat ervoor kan zorgen dat de totale haalbaarheid van het project in gevaar komt. Het is belangrijk dat eerst de showstoppers geïdentificeerd en getest worden. Voorbeeld: als een apparaat bestuurd moet worden vanuit een PC maar de communicatie werkt niet tussen PC en apparaat, zal het dus nooit vanuit een PC bestuurd kunnen worden. Oplossing: eerst dit testen, dan pas naar de volgende stap. |
 | `Term` | `Geef diens omschrijving` |
 | `Term` | `Geef diens omschrijving` |
 | `etc` | `etc` |
