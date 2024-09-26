@@ -118,6 +118,9 @@ Het is overigens mogelijk dat er in het verloop van het project bepaalde onderde
 `Heb je daarvoor software beschikbaar, dan kan je onderzoeken of dit mogelijk is via een Gantt-grafiek. Dit is een schematische weergave die toont wanneer welke activiteiten/onderdelen worden gedaan/gemaakt.`
 
 ![Voorbeeld Gantt-grafiek](./pics/gantt-grafiek.png)
+`Voorbeeld van een Gantt-grafiek`
+
+`Zie: https://nl.wikipedia.org/wiki/Gantt-grafiek`
 
 `Heb je liever een wat simpeler overzicht, dan kun je dit ook in een tabelvorm gieten. Net zoals bij een Gantt-grafiek is dit op chronologische volgorde. Waar nodig kunnen taken overlappen.`
 
