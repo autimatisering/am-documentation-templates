@@ -26,13 +26,11 @@
 
 `Voeg hier de wireframes, schetsen en/of mockups toe, ter verduidelijking van de user interface. Plaats bij elke weergave ook telkens een beschrijving.`
 
-![Voorbeeld low fidelity wireframe](./pics/wireframe-low-fidelity.png)
+![Voorbeeld low fidelity wireframe](./pics/wireframe-low-fidelity.png)<br>
+_Voorbeeld van een laag-getrouwheid (low-fidelity) wireframe_
 
-`Voorbeeld van een laag-getrouwheid (low-fidelity) wireframe`
-
-![Voorbeeld medium fidelity wireframe](./pics/wireframe-medium-fidelity.png)
-
-`Voorbeeld van een medium-getrouwheid (medium-fidelity) wireframe`
+![Voorbeeld medium fidelity wireframe](./pics/wireframe-medium-fidelity.png)<br>
+_Voorbeeld van een medium-getrouwheid (medium-fidelity) wireframe_
 
 ## Navigatiestructuur
 
@@ -49,9 +47,8 @@
 
 `Is er nog geen mockup beschikbaar, dan kan men dit onderwerp schrappen.`
 
-![Voorbeeld high fidelity wireframe](./pics/wireframe-high-fidelity.png)
-
-`Voorbeeld van een hoog-getrouwheid (high-fidelity) wireframe of mockup.`
+![Voorbeeld high fidelity wireframe](./pics/wireframe-high-fidelity.png)<br>
+_Voorbeeld van een hoog-getrouwheid (high-fidelity) wireframe of mockup._
 
 ## Datamodel
 
