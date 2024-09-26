@@ -33,7 +33,7 @@ De lesstof en templates zijn beschikbaar gesteld door Victor van der Put (@MakeP
 
 Voor vragen en/of opmerkingen, weet men mij te vinden.
 
-**Victor van der Put**
+**Victor van der Put**<br>
 @MakePixelsWork
 
 
