@@ -13,7 +13,7 @@ Lees de [inleiding projectdocumentatie][A] (PDF) door, zodat jij leert waarom en
 
 ## Templates
 
-Van de vijf documenten, hebben we .docx en .md templates beschikbaar gesteld, die je als basis kunt gebruiken om jouw eigen projectdocumentatie te schrijven. Onze voorkeur gaat uit naar Markdown, omdat dit gemakkelijk te lezen is zonder extra software zoals Word of Acrobat Reader. Opmaak is wellicht wat beperkt, maar forceert je ook wat gestructureerder te denken/schrijven.
+Van de vijf documenten, hebben we .docx en .md templates beschikbaar gesteld, die je als basis kunt gebruiken om jouw eigen projectdocumentatie te schrijven. Onze voorkeur gaat uit naar Markdown, omdat dit gemakkelijk te lezen is zonder extra software zoals Microsoft Word of Acrobat Reader. Opmaak is wellicht wat beperkt, maar forceert je ook wat gestructureerder te denken/schrijven.
 
 > [!NOTE]  
 > Deze templates zijn zeer uitgebreide versies van de te leveren documentatie. Heb je een kleiner project, dan gaan wij samen diverse onderwerpen schrappen. Doe dit enkel in overleg met jouw begeleider.
