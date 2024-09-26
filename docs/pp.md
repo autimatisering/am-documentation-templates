@@ -5,7 +5,7 @@
 ## Projectdetails
 
 | Info          | Toelichting |
-| ---           | --- |
+| ---           | ---         |
 | Projectnaam   | `Geef de projectnaam op. Deze staat ook in de titel van het document.` |
 | Opdrachtgever | `Geef de bedrijfsnaam van de klant op.` |
 | Projectnummer | `Geef (i.v.t.) een projectnummer op.` |
