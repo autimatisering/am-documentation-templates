@@ -8,37 +8,23 @@ Vernieuwde projectdocumentatie, opgedeeld in een vijftal documenten.
 - **Technisch ontwerp** (TO); Welke technologieën gebruiken we?
 - **Visueel ontwerp** (VO); Hoe ziet het digitale product er uit?
 
-Lees de [inleiding projectdocumentatie][16] (PDF) door, zodat jij leert waarom en hoe we deze documentatie schrijven. Bekijk [Markdown Guide][17] als je wilt leren hoe je in Markdown documenten opmaakt.
+Lees de [inleiding projectdocumentatie][A] (PDF) door, zodat jij leert waarom en hoe we deze documentatie schrijven. Bekijk [Markdown Guide][B] als je wilt leren hoe je in Markdown documenten opmaakt.
 
 
 ## Templates
 
+Van de vijf documenten, hebben we .docx en .md templates beschikbaar gesteld, die je als basis kunt gebruiken om jouw eigen projectdocumentatie te schrijven. Onze voorkeur gaat uit naar Markdown, omdat dit gemakkelijk te lezen is zonder extra software zoals Word of Acrobat Reader. Opmaak is wellicht wat beperkt, maar forceert je ook wat gestructureerder te denken/schrijven.
+
 > [!NOTE]  
-> Dit zijn zeer uitgebreide versies. Heb je een kleiner project, dan gaan wij samen onderwerpen schrappen. Doe dit enkel in overleg met jouw begeleider. 
+> Deze templates zijn zeer uitgebreide versies van de te leveren documentatie. Heb je een kleiner project, dan gaan wij samen diverse onderwerpen schrappen. Doe dit enkel in overleg met jouw begeleider.
 
-
-## Inleiding projectdocumentatie
-Lees de uitgebreide , beschikbaar gesteld door Victor van der Put (@MakePixelsWork).
-
-Van de vijf project documenten, hebben we templates beschikbaar gesteld, die je kan gebruiken om jouw eigen documentatie te schrijven.  Middels de volgende vijf templates kan het ontwikkelteam een project documenteren en beheren. Deze zijn als .docx en .md templates beschikbaar. Onze voorkeur gaat uit naar Markdown *. Zie [Markdown Guide](https://www.markdownguide.org/) voor info hoe je die opmaakt.
-
-
-
-| Dpocument                 | Word       | Markdown  |
+| Document                  | Word       | Markdown  |
 | ---                       | ---        | ---       |
 | Projectplan (PP)          | [.docx][1] | [.md][6]  |
 | Programma van Eisen (PvE) | [.docx][2] | [.md][7]  |
 | Functioneel ontwerp (FO)  | [.docx][3] | [.md][8]  |
 | Technisch ontwerp (TO)    | [.docx][4] | [.md][9]  |
 | Visueel ontwerp (VO)      | [.docx][5] | [.md][10] |
-
-
-
-
-
-> [!IMPORTANT]  
-> Hoewel Markdown wat beperkte opmaak biedt, heeft het wel onze voorkeur. Een .md is immers gemakkelijk te lezen zonder extra software. Het forceert de gebruiker tevens om wat gerichter documentatie te schrijven. Afbeeldingen zal men moeten toevoegen middels tags en kan men (bij voorkeur) opslaan in een eigen folder.
-
 
 
 ## Auteur
@@ -52,6 +38,16 @@ Voor vragen en/of opmerkingen, weet men mij te vinden.
 
 
 <!-- LINKS IN THIS DOCUMENT -->
-[1]: <>
-[16]: <./a04%20-%20Projectdocumentatie.pdf>
-[17]: https://www.markdownguide.org/
+[1]: <./docs/pp.docx>
+[2]: <./docs/pve.docx>
+[3]: <./docs/fo.docx>
+[4]: <./docs/to.docx>
+[5]: <./docs/vo.docx>
+[6]: <./docs/pp.md>
+[7]: <./docs/pve.md>
+[8]: <./docs/fo.md>
+[9]: <./docs/to.md>
+[10]: <./docs/vo.md>
+
+[A]: <./docs/a04 - Projectdocumentatie.pdf>
+[B]: https://www.markdownguide.org/
