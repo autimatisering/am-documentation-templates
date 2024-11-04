@@ -20,7 +20,7 @@ De documenten starten met de afkorting van de soort gevolgd door 'projectnaam', 
 > [!NOTE]  
 > Deze templates zijn zeer uitgebreide versies van de te leveren documentatie. Heb je een kleiner project, dan gaan wij samen diverse onderwerpen schrappen. Doe dit enkel in overleg met jouw begeleider.
 
-| Document                  | Name              | Word       | Markdown  |
+| Document                  | Bestandsnaam      | Word       | Markdown  |
 | :---                      | :---              | :---       | :---      |
 | Projectplan (PP)          | po-projectnaam    | [.docx][1] | [.md][2]  |
 | Programma van Eisen (PvE) | pve-projectnaam   | [.docx][3] | [.md][4]  |
