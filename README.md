@@ -19,12 +19,12 @@ Van de vijf documenten, hebben we .docx en .md templates beschikbaar gesteld, di
 > Deze templates zijn zeer uitgebreide versies van de te leveren documentatie. Heb je een kleiner project, dan gaan wij samen diverse onderwerpen schrappen. Doe dit enkel in overleg met jouw begeleider.
 
 | Document                  | Word       | Markdown  |
-| :---                      | :---       | :---       |
-| Projectplan (PP)          | [.docx][1] | [.md][6]  |
-| Programma van Eisen (PvE) | [.docx][2] | [.md][7]  |
-| Functioneel ontwerp (FO)  | [.docx][3] | [.md][8]  |
-| Technisch ontwerp (TO)    | [.docx][4] | [.md][9]  |
-| Visueel ontwerp (VO)      | [.docx][5] | [.md][10] |
+| :---                      | :---       | :---      |
+| Projectplan (PP)          | [.docx][1] | [.md][2]  |
+| Programma van Eisen (PvE) | [.docx][3] | [.md][4]  |
+| Functioneel ontwerp (FO)  | [.docx][5] | [.md][6]  |
+| Technisch ontwerp (TO)    | [.docx][7] | [.md][9]  |
+| Visueel ontwerp (VO)      | [.docx][9] | [.md][10] |
 
 
 ## Auteur
@@ -38,16 +38,20 @@ Voor vragen en/of opmerkingen, weet men mij te vinden.
 
 
 <!-- LINKS IN THIS DOCUMENT -->
-[1]: <./docs/pp.docx>
-[2]: <./docs/pve.docx>
-[3]: <./docs/fo.docx>
-[4]: <./docs/to.docx>
-[5]: <./docs/vo.docx>
-[6]: <./docs/pp.md>
-[7]: <./docs/pve.md>
-[8]: <./docs/fo.md>
-[9]: <./docs/to.md>
-[10]: <./docs/vo.md>
+[1]: <./docs/pp-projectnaam.docx>
+[2]: <./docs/pp-projectnaam.md>
+
+[3]: <./docs/pve-projectnaam.docx>
+[4]: <./docs/pve-projectnaam.md>
+
+[5]: <./docs/fo-projectnaam.docx>
+[6]: <./docs/fo-projectnaam.md>
+
+[7]: <./docs/to-projectnaam.docx>
+[8]: <./docs/to-projectnaam.md>
+
+[9]: <./docs/vo-projectnaam.docx>
+[10]: <./docs/vo-projectnaam.md>
 
 [A]: <./docs/a04 - Projectdocumentatie.pdf>
 [B]: https://www.markdownguide.org/
