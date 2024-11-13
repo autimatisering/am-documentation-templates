@@ -19,4 +19,4 @@ De verouderde documentatie staat hier als backup, mochten we de wat simpelere do
 Voor vragen en/of opmerkingen, weet men mij te vinden.
 
 **Victor van der Put**<br>
-@MakePixelsWork
+[@MakePixelsWork](https://github.com/MakePixelsWork)
