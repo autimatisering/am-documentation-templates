@@ -6,7 +6,7 @@ Vernieuwde projectdocumentatie, opgedeeld in een vijftal documenten.
 - **Programma van Eisen** (PvE); De eisen en wensen van het product.
 - **Functioneel ontwerp** (FO); Wat moet het product doen?
 - **Technisch ontwerp** (TO); Welke technologieën gebruiken we?
-- **Visueel ontwerp** (VO); Hoe ziet het digitale product er uit?
+- **Visueel ontwerp** (VO); Hoe ziet het digitale product eruit?
 
 Lees de [inleiding projectdocumentatie][A] (PDF) door, zodat jij leert waarom en hoe we deze documentatie schrijven. Bekijk [Markdown Guide][B] als je wilt leren hoe je in Markdown documenten opmaakt.
 
