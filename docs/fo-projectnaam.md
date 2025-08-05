@@ -1,5 +1,7 @@
 # Functioneel ontwerp `projectnaam`
 
+Wat moet het product doen?
+
 `Alle backticked teksten dienen als voorbeelden en kan je of verwijderen, of vervangen met je eigen inhoud. Vergeet niet alle backticks te verwijderen! Stel je hebt verwijzingen naar bestanden, broncode, of je wilt tekst accentueren, dan kan je natuurlijk nog steeds backticks gebruiken.`
 
 ## Functionaliteiten
