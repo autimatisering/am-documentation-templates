@@ -34,7 +34,7 @@ Opsomming van specifieke server side eisen
 
 `Het klassendiagram geeft aan hoe alle gegevens opgeslagen gaan worden in een database en hoe al deze gegevens met elkaar verbonden staan. Hieronder staan een voorbeeld van 2 klassen.`
 
-![Voorbeeld klassendiagram](./pics/klassendiagram.png)
+![Voorbeeld klassendiagram](./pics/voorbeeld-klassendiagram.png)
 
 `Taken:`
 - `Teken het klassendiagram van alle klassen, attributen en onderlinge relaties, dat bij je applicaties hoort`
@@ -71,7 +71,7 @@ Opsomming van specifieke server side eisen
 
 `Het is voor een ontwikkelaar mogelijk om middels UML een ERD te maken van de te verwachten of reeds gerealiseerde database structuur.`
 
-![Voorbeeld datamodel](./pics/datamodel.png)<br>
+![Voorbeeld datamodel](./pics/voorbeeld-datamodel.png)<br>
 _Voorbeeld van schematisch weergegeven datamodel_
 
 ## Beslissingen

@@ -13,7 +13,7 @@ Hoe ziet het digitale product eruit?
 - `Het logo moet altijd voldoen aan de volgende eisen`
   - `Minimaal 20% witruimte rondom het logo`
     <br>
-    ![Voorbeeld klassendiagram](./pics/logo.png)
+    ![Voorbeeld klassendiagram](./pics/voorbeeld-logo.png)
   - `Vrijstaand`
   - `Als het bovenop een achtergrond staat, dan moet die afbeelding een laag in een contrastrijk zwart of wit er overheen hebben staan. Bijvoorbeeld;`
     - `Gekleurde foto, met 70% witte laag, met daarop een zwart logo`
@@ -49,7 +49,7 @@ Hoe ziet het digitale product eruit?
 
 `Plaats hier minimaal medium- of hoog-getrouwheid (fidelity) wireframes. Schetsen zijn té indicatief voor een uiteindelijke ontwerp, en behoren enkel in een FO of TO. Plaats ook telkens een beschrijving.`
 
-![Voorbeeld medium fidelity wireframe](./pics/wireframe-medium-fidelity.png)<br>
+![Voorbeeld medium fidelity wireframe](./pics/voorbeeld-wireframe-medium-fidelity.png)<br>
 _Voorbeeld van een medium-getrouwheid (medium-fidelity) wireframe_
 
 `Geef eventueel aan wat hier eisen/wensen zijn bij het realiseren van het ontwerp. Bijvoorbeeld;`
@@ -65,7 +65,7 @@ _Voorbeeld van een medium-getrouwheid (medium-fidelity) wireframe_
 
 `Binnen dit onderwerp plaatsen we de hoog-getrouwheid mockups van de applicatie. Hier kan een developer zien wat hij moet gaan ontwikkelen… en kan je (indien van toepassing) uitgebreid beschrijven waar men rekening mee dient te houden.`
 
-![Voorbeeld high fidelity wireframe](./pics/wireframe-high-fidelity.png)<br>
+![Voorbeeld high fidelity wireframe](./pics/voorbeeld-wireframe-high-fidelity.png)<br>
 _Voorbeeld van een hoog-getrouwheid (high-fidelity) wireframe of mockup._
 
 `Geef eventueel aan wat hier eisen/wensen zijn bij het realiseren van het ontwerp. Bijvoorbeeld;`

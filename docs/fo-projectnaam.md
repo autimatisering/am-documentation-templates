@@ -16,29 +16,29 @@ Wat moet het product doen?
 
 `Een stroomschema toont vaak een proces (inclusief beslissingsmomenten) dat men doorloopt. Voeg waar nodig meerdere stroomschema’s toe, die de relevante logica tonen, of verwijs naar externe bronnen.`
 
-![Voorbeeld stroomschema](./pics/stroomschema.png)
+![Voorbeeld stroomschema](./pics/voorbeeld-stroomschema.png)
 
 ### Sitemaps
 
 `Een sitemap toont vaak de structuur van de pagina’s en hoe men daar kan komen. Hieronder een tweetal voorbeelden van een vrij eenvoudige tot redelijk complexe website.`
 
-![Voorbeeld sitemaps](./pics/sitemaps.png)
+![Voorbeeld sitemaps](./pics/voorbeeld-sitemaps.png)
 
 ## Wireframes
 
 `Voeg hier de wireframes, schetsen en/of mockups toe, ter verduidelijking van de user interface. Plaats bij elke weergave ook telkens een beschrijving.`
 
-![Voorbeeld low fidelity wireframe](./pics/wireframe-low-fidelity.png)<br>
+![Voorbeeld low fidelity wireframe](./pics/voorbeeld-wireframe-low-fidelity.png)<br>
 _Voorbeeld van een laag-getrouwheid (low-fidelity) wireframe_
 
-![Voorbeeld medium fidelity wireframe](./pics/wireframe-medium-fidelity.png)<br>
+![Voorbeeld medium fidelity wireframe](./pics/voorbeeld-wireframe-medium-fidelity.png)<br>
 _Voorbeeld van een medium-getrouwheid (medium-fidelity) wireframe_
 
 ## Navigatiestructuur
 
 `Waar nodig kan je hier de navigatiestructuur tonen van het te ontwikkelen product. De processen kan je tonen via een sitemap, stroomschema of klassieke stamboomdiagram. De designer van de applicatie heeft hoogstwaarschijnlijk al sitemaps beschikbaar, omdat deze ook voor het visueel ontwerp nodig zijn.`
 
-![Voorbeeld navigatiestructuur](./pics/navigatiestructuur.png)
+![Voorbeeld navigatiestructuur](./pics/voorbeeld-navigatiestructuur.png)
 
 
 ## Schermontwerpen
@@ -49,7 +49,7 @@ _Voorbeeld van een medium-getrouwheid (medium-fidelity) wireframe_
 
 `Is er nog geen mockup beschikbaar, dan kan men dit onderwerp schrappen.`
 
-![Voorbeeld high fidelity wireframe](./pics/wireframe-high-fidelity.png)<br>
+![Voorbeeld high fidelity wireframe](./pics/voorbeeld-wireframe-high-fidelity.png)<br>
 _Voorbeeld van een hoog-getrouwheid (high-fidelity) wireframe of mockup._
 
 ## Datamodel
