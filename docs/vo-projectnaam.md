@@ -13,7 +13,7 @@ Hoe ziet het digitale product eruit?
 - `Het logo moet altijd voldoen aan de volgende eisen`
   - `Minimaal 20% witruimte rondom het logo`
     <br>
-    ![Voorbeeld klassendiagram](./pics/voorbeeld-logo.png)
+    ![Voorbeeld logo](./pics/voorbeeld-logo.png)
   - `Vrijstaand`
   - `Als het bovenop een achtergrond staat, dan moet die afbeelding een laag in een contrastrijk zwart of wit er overheen hebben staan. Bijvoorbeeld;`
     - `Gekleurde foto, met 70% witte laag, met daarop een zwart logo`
